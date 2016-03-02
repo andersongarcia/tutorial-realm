@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial Realm</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Nome">Nome</string>
+    <string name="msg_inserido">Cliente inserido com sucesso!</string>
+    <string name="msg_alterado">Cliente alterado com sucesso!</string>
+    <string name="search_hint">Buscar Cliente</string>
+    <string name="title_activity_detalhe">Novo Cliente</string>
+    <string name="remover_cliente">Remover Cliente</string>
+    <string name="msg_removido">Cliente removido</string>
+</resources>
